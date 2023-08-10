@@ -2,7 +2,7 @@
 Process Documentation Internship @DeWaagFablabAmsterdam
 
 
-**Welcome** Hi there! Welcome to my documentation for my internship at De Waag! On this page I will show all the process I have been going through the last couple of months. See below some extra links: bliebloe
+**Welcome** Hi there! Welcome to my documentation for my internship at De Waag! On this page I will show all the process I have been going through the last couple of months. See below some extra links.
 
 - **This Page**: [https://laurafreyaweller.github.io/](https://laurafreyaweller.github.io/)
 - **Github Repo:** [https://github.com/laurafreyaweller/laurafreyaweller.github.io](https://github.com/laurafreyaweller/laurafreyaweller.github.io).
