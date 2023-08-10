@@ -1,70 +1,23 @@
-# ----------------------------------------------------------------------------
-# Customize Options: Must Change
-#
-# Title:
-title: Documentation Internship De Waag Laura Weller
+# Site settings
+title: "Joon: Roon for Jekyll"
+logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
+email: your-email@domain.com
+description: > # this means to ignore newlines until "url:"
+  Roon was an excellent service, with a beautiful understated design. After
+  being acquired by <a href='https://ghost.org'>Ghost</a>, the Roon theme was
+  open sourced.<br> This is my Jekyll port of the Roon theme.
+url: "http://vormwald.github.io" # the base hostname & protocol for your site
+baseurl: "/joon" # the subpath of your site, e.g. /blog/
+twitter_username: jekyllrb
+github_username:  jekyll
 
-# Where the page will be deployed.
-# If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://laurafreyaweller.github.io/"
+permalink: pretty
+paginate: 5
 
-# If you're deployging to a subdirectory (https://foo.com/bar/)
-# Then write "/bar/". Otherwise, remove this line.
-baseurl: ""
+# Build settings
+markdown: kramdown
+highlighter: rouge
 
-# Twitter IDs
-twitter:
-  username: "lauraweller"
-author:
-  twitter: "lauraweller"
-
-# Set default og:image
-# From MyPortfolio: https://cdn.myportfolio.com/70a5e3d3-69c2-4592-bde7-e627db462419/16969ab1-eb44-42e4-a6d7-e2e3e0816ae4_rw_1920.png?h=815d471d55274adc6094aecdfef088ef
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      image: "static/images/myportfolio.jpg"
-
-# ----------------------------------------------------------------------------
-# Customize Options: Optional
-#
-# See: https://material.io/guidelines/style/color.html
-# Use color-name-value, like pink-200 or deep-purple-100
-brand_color: "teal-900"
-
-# How article URLs are structured.
-# See: https://jekyllrb.com/docs/permalinks/
-permalink: posts/:title/
-
-# "UA-NNNNNNNN-N"
-google_analytics: ""
-
-# Language. For example, if you write in Japanese, use "ja"
-lang: "en"
-
-# How many posts are visible on the home page without clicking "View More"
-num_posts_visible_initially: 5
-
-# Date format: See http://strftime.net/
-date_format: "%b %-d, %Y"
-# ----------------------------------------------------------------------------
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - mix-manifest.json
-  - webpack.mix.js
-  - yarn.lock
-  - package.json
-  - hot
-  - LICENSE.txt
-
-plugins:
-  - jekyll-feed
+gems:
   - jekyll-sitemap
-  - jekyll-seo-tag
-  - jemoji
-  - jekyll-readme-index
+  - jekyll-paginate
