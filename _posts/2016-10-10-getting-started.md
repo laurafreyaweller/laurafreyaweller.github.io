@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Getting Started"
+title: "Digital Designs"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]

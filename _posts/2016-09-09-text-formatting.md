@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Text Formatting"
+title: "Values Digital Materials"
 author: "Paul Le"
 categories: sample
 tags: [sample]

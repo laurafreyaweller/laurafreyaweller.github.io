@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Hi! My name is Laura Weller. I am a Dutch fashion designer who studied Liberal Arts and Sciences at the Universiteit Utrecht and Fashion design at AMFI. Please check out my portfolio for more information on the projects I do on [my portfolio](https://laurafreyaweller.myportfolio.com/).
