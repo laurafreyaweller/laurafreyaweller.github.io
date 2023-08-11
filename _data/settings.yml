@@ -7,10 +7,10 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Documentation',      url: 'facts'}
-- {name: 'Bio materials',      url: 'resources'}
-- {name: 'Digital materials',  url: 'sample-posts'}
-- {name: 'Garment designs',    url: 'documentation'}
+- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Bio materials',      url: 'Biomaterials'}
+- {name: 'Digital materials',  url: 'digital-materials'}
+- {name: 'Garment designs',    url: 'garment-designs'}
 - {name: 'About me',           url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 
