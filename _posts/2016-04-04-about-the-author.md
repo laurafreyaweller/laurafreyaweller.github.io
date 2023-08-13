@@ -93,7 +93,7 @@ echo "chruby ruby-3.1.3" >> ~/.zshrc # run 'chruby' to see actual version
 - Now you move to GitHub desktop and click fetch and afterwards push. Now your remote repository and therefore your remote static website is updated. 
 
 6. Errors I encountered
-The process of setting up a static website via GitHub can be very contronting, irritating and annoying. It took me 4 full days to get a website running, so do not stress if it doesn't work at once. One of the most important things I have learned here is that google knows EVERYTHING. If you can't find your error solution, try again: you will not have searched well enough. 
+The process of setting up a static website via GitHub can be very confronting, irritating and annoying. It took me 4 full days to get a website running, so do not stress if it doesn't work at once. One of the most important things I have learned here is that google knows EVERYTHING. If you can't find your error solution, try again: you will not have searched well enough. 
 
 How I tackled all my errors is similar. Terminal gave an error, I read carefully the error and copy pasted the error + the code I have the terminal into google. Then I started reading around 10 different articles (reddit/GitHubsupport/Jekyllsupport, etc) that had similar problems and looked at how they solved it. Slowly I started to get the gist of the basic codes and I could solve my errors. 
 
