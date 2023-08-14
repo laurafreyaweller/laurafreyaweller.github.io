@@ -15,7 +15,7 @@ In the second week of my internship I learned to first of all 3D model with a pr
 
 > *3D modeling: Fusion 360*
 
-<img src="./assets/img/week-2b.png" alt="week-2b">
+<img src="./assets/img/Week-2b.png" alt="Week-2b">
 
 Adobe here you see the starting environment of the programm Fusion 360. Before starting with Fusion 360 I had some experience in 3D modeling. Programms I used before were CLO3D, the Adobe substance 3D programms and Blender. As I see it now, CLO3D is a 3D programm that can be used for creating garments, the Adobe substance 3D programms are great for changing or creating texture of objects. Blender is a programm that can be used for animation, video creation, games and image simulations needed for animation. Fusion is a great tool for mechanical drawings and designs. Learning to work with fusion I see as an additional skill that can help me in the end with my digital designs. 
 
