@@ -15,7 +15,7 @@ In the second week of my internship I learned to first of all 3D model with a pr
 
 > *3D modeling: Fusion 360*
 
-<img src=".assets/img/week-2b.png">
+<img src=".assets/img/week-2b.png" alt="Week-2b">
 
 Adobe here you see the starting environment of the programm Fusion 360. Before starting with Fusion 360 I had some experience in 3D modeling. Programms I used before were CLO3D, the Adobe substance 3D programms and Blender. As I see it now, CLO3D is a 3D programm that can be used for creating garments, the Adobe substance 3D programms are great for changing or creating texture of objects. Blender is a programm that can be used for animation, video creation, games and image simulations needed for animation. Fusion is a great tool for mechanical drawings and designs. Learning to work with fusion I see as an additional skill that can help me in the end with my digital designs. 
 
@@ -46,8 +46,8 @@ J = Scharnier (Joint)
 
 After some puzzeling and playing around with the programm I managed to design a little cutlery cup where I can put my cutlery in after washing them (I have been waiting for the right time to get one - and I thought this would be a nice challenge). You can see below in the image the process of the 3D design in Fusion 360 and the 3D design in the programm UltiMaker Cura - which is a software that can help you 3D print your designed object. 
 
-<img src="./assets/img/Week-2d.png">
-<img src="./assets/img/Week-2c.png">
+<img src=".assets/img/Week-2d.png" alt="Week-2d">
+<img src="./assets/img/Week-2c.png" alt="Week-2c">
 
 After 3D modeling through Fusion 360 I decided to start with printing my 3D model on a 3D printer.
 
