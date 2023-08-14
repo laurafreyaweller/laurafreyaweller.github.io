@@ -57,7 +57,7 @@ At De Waag there are several 3D printers to print with. See [here](http://make.w
 
 To start with a 3D print, you have to upload your exported .stl file from Fusio 360 into UltiMaker Cura (another programm). In this programm you can choose the printer you are printing with, upload your .stl and slice it so it prepared for the 3D printer to "read". Now you can save your "sliced" file on a SD card to upload on the printer (it will now be saved as a .gcode file). For the Creality Ender 3, your settings can be as follows: your material is PLA and your nozzle size is 1 mm. 
 
-When starting to print I started out with a bit of an easier print then the one you saw above. The print + result that I created you can see here below. 
+When starting to print I started out with a bit of an easier print then the one you saw above. The print + result that I created you can see here below:
 
 <img src="./assets/img/Week-2f.png" alt="Week-2f">
 <img src="./assets/img/Week-2e.png" alt="Week-2e">
