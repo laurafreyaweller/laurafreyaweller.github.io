@@ -46,7 +46,7 @@ J = Scharnier (Joint)
 
 After some puzzeling and playing around with the programm I managed to design a little cutlery cup where I can put my cutlery in after washing them (I have been waiting for the right time to get one - and I thought this would be a nice challenge). You can see below in the image the process of the 3D design in Fusion 360 and the 3D design in the programm UltiMaker Cura - which is a software that can help you 3D print your designed object. 
 
-<img src=".assets/img/Week-2d.png" alt="Week-2d">
+<img src="./assets/img/Week-2d.png" alt="Week-2d">
 <img src="./assets/img/Week-2c.png" alt="Week-2c">
 
 After 3D modeling through Fusion 360 I decided to start with printing my 3D model on a 3D printer.
