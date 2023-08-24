@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heatpressing and sticker making: the circut cutter"
-date:   2014-12-04 20:14:47
+date:   2023-08-23 
 categories: jekyll update
 image: Week-2h.png
 ---
