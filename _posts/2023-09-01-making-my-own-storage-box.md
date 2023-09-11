@@ -12,6 +12,7 @@ To make my own storage ox I started out with watching some Youtube tutorials on 
 - https://www.youtube.com/watch?v=ZrcqauNvt0M&ab_channel=WhatMakeArt
 - https://www.youtube.com/watch?v=9utpuieg5lI&ab_channel=WhatMakeArt (from minute 8.36)
 - https://www.youtube.com/watch?v=_G-0i8BFEFs&ab_channel=WhatMakeArt
+- https://www.youtube.com/watch?v=X_u4vFTTEVQ&ab_channel=ShopBotTools (from minute 18.30)
 
 
 
