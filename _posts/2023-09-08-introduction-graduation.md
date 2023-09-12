@@ -18,3 +18,4 @@ First we used collaging and cutting to create a quick line up of looks. This was
 The exhibition I went to was an exhibition on workwear in Het Nieuwe Instituut in Rotterdam. This collection inspired me massively into practical and communal wear for the XR protests. 
 
 <img src="./assets/img/Week-5c.png" alt="Week-5c">
+<img src="./assets/img/Week-5c.png" alt="Week-5c">
