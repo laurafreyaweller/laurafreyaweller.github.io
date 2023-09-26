@@ -107,3 +107,11 @@ Two main errors I had difficulty with figuring out were:
 > - Then my mac told me that the theme needed a bunch of different gems versions, so I updated all the versions it asked me to, now it worked. 
 > - If after that your theme still does not work, try using a different theme. Often the themes are just not that good, so i had to try like 5 of them before I found one that was easily accessible. Keep in mind that using a theme that is quite new (not from more then 2/3 years before) and a theme that does not have many issues (you can check this on the Github page and navigate under issues when looking at the remote repository of the theme) is always a good start. 
 
+Websites of previous interns/ students that helped me set up the static website:
+- https://asliaydinaksan.github.io/  
+- https://ellasuza.github.io/
+- https://ferahijazi.github.io/
+- https://hazalates.github.io/
+- http://make.waaglabs.nl/fablab/interns/2019/michelle-vossen/
+- https://maudbausier.com/content.html
+- https://fabacademy.org/2022/labs/waag/
