@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Week 4: making my own storage box"
+title: "Week 4"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-4a.png
+image: Week-4.png
 ---
 
 To make my own storage ox I started out with watching some Youtube tutorials on how to work in Fusion 360. Some links that were helpful are:

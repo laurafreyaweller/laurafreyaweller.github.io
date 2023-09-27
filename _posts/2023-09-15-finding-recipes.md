@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Week 6: Finding recipes"
+title: "Week 6"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-6a.png
+image: Week-6.png
 ---
 
 To find recipes I have looked at many different websites. Some of them you can find here below:

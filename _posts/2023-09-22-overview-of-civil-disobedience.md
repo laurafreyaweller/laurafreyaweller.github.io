@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Week 7: Creating an overview of civil disobedience"
+title: "Week 7"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-7a.png
+image: Week-7.png
 ---
 
 Sources that I have used in creating this overview are:

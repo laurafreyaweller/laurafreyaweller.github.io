@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Week 2: Concept research"
+title: "Week 2"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Paper-a.jpeg 
+image: Week-2.png
 ---
 
 Here you can see the beginning of my Research paper for my concept

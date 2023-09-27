@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Week 9: Interviews with fellow rebels"
+title: "Week 9"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-7a.png
+image: Week-9.png
 ---
 
 For de 9th week van dit project ben ik in diepteinterviews gedoken waarin ik heb geprobeerd de behoeftes van rebellen tijdens een XR protest in kaart te brengen. Dit heb ik gedaan door de volgende vragen te stellen.

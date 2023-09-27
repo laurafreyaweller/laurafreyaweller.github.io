@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Week 8: Making Biomaterials"
+title: "Week 8"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-8a.png
+image: Week-8.png
 ---
 
 To make biomaterials I created an overview of the recipes that I would test. I use 2 bases: Sodium Alginate and CMC+DMC. I combine these bases with paper, orange peel, wool or coffee (or a combination of). Then I test the fabric properties and then I see what I take with me to the next step. 

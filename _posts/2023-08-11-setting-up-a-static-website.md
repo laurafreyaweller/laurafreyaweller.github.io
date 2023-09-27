@@ -1,17 +1,19 @@
 ---
 layout: post
-title: "Week 1: Setting up the static website for my documentation"
+title: "Week 1"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-1.jpg
+image: Week-1.png
 ---
 
 *I have a MacBook Pro Monterey, version 12.0, Apple M1 Pro chip*
  
 Hi all! On this page I will show you how I started with my internship at De Waag. When starting on my first day, I was introduced to Github: a code hosting platform  or a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. It allows developers, researchers, artists and others to collaborate on projects together, while living in completely different spaces in the world. 
 
-Github can do a lot, but as a start for my internship I used it to launch my own website where I post my progress of my internship. You can see it as documentation or a process document. 
+Github can do a lot, but as a start for my internship I used it to launch my own website where I post my progress of my internship. You can see it as documentation or a process document. Just be aware: when you want to start your own documentation through a website, you will encounter headaches and errors! 
+
+<img src="./assets/img/Week-1a.jpg" alt="Week-1a">
 
 In order to start working with Github you need to have a bunch of other programs or platforms that where completely unknown to me. First of I had to start working with the Terminal on my Macbook - something that always felt like a tech-programming kind of thing on my computer and I had the feeling I would break my laptop if I would start giving that Terminal commands. If you have the same as me, and you have no idea how to work with Terminal, Github or what even the two are, here a little explanation of all of the programs I have come across while launching my website on Github:
 
