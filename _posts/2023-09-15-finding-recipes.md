@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finding recipes"
+title: "Week 6: Finding recipes"
 author: "Laura Weller"
 categories: facts
 tags: [sample]

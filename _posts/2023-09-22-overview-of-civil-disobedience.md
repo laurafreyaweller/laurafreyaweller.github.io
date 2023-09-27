@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating an overview of civil disobedience"
+title: "Week 7: Creating an overview of civil disobedience"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
