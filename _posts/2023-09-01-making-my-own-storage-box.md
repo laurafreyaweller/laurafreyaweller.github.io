@@ -33,3 +33,6 @@ After having set the thickness of the wood, hight, length and depth of the stora
 After you have created the model in Fusion, you need to prepare it for the Shopbot. This you do by created a gcoded file for the shopbot. To do this in Fusion I again watched some lovely tutorials (all of them mentioned on the top of this page). 
 
 ### Cutting on the Shopbot
+For cutting on the shopbot, please see the page about the [ShopBot](shopbot). In the end I ended up with a nice box. See images below:
+<img src="./assets/img/Week-4d.jpg" alt="Week-4d">
+<img src="./assets/img/Week-4c.jpg" alt="Week-4c">

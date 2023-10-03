@@ -11,7 +11,7 @@ To make biomaterials I created an overview of the recipes that I would test. I u
 <img src="./assets/img/Week-6d.png" alt="Week-6d">
 
 After making the overview, I started making the materials. Below you see some imagery of that
-<img src="./assets/img/Week-7b.png" alt="Week-8b">
+<img src="./assets/img/Week-8b.png" alt="Week-8b">
 
 Here you can see the result of the biomaterials
-<img src="./assets/img/Week-7c.png" alt="Week-8c">
+<img src="./assets/img/Week-8c.png" alt="Week-8c">
