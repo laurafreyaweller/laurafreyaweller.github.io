@@ -7,6 +7,8 @@ tags: [sample]
 image: Week-1.png
 ---
 
+In the first week of my internship I started with setting up this static website. Below you can see how I did that. 
+
 *I have a MacBook Pro Monterey, version 12.0, Apple M1 Pro chip*
  
 Hi all! On this page I will show you how I started with my internship at De Waag. When starting on my first day, I was introduced to Github: a code hosting platform  or a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. It allows developers, researchers, artists and others to collaborate on projects together, while living in completely different spaces in the world. 
