@@ -1,15 +1,15 @@
 ---
 layout: post
-title: "Week 11 & 12"
+title: "Week 10"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
 image: Week-12.png
 ---
 
-For the testing of the chosen materials I decided to test some materials and already rejected some other materials. Below you see the result of each material and whether I rejected it beforehand or not:
+In the tenth week I started to study some archetypical clothing. I choose a pair of pants that can change side and a jacket that was very practical. See below pictures and the technical drawings of the garments:
 
 <img src="./assets/img/Week-10a.png" alt="Week-10a">
 
-After rejecting some materials and accepting others, I decided to sew the materials to test their strength. You can see the result of the materials below:
+<img src="./assets/img/Week-10b.png" alt="Week-10b">
 
