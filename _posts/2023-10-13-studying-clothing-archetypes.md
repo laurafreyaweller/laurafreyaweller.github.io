@@ -4,7 +4,7 @@ title: "Week 10"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-12.png
+image: Week-10.png
 ---
 
 In the tenth week I started to study some archetypical clothing. I choose a pair of pants that can change side and a jacket that was very practical. See below pictures and the technical drawings of the garments:
