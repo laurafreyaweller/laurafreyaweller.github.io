@@ -10,6 +10,9 @@ image: Week-2.jpg
 Here you can see the beginning of my Research paper for my concept
 
 
+[Research paper][file:///Users/lauraweller/Documents/AMFI/Internship/Week%201,%202,%203%20&%204/Research%20paper/Research%20paper-%20Global%20aCtIVISm%20through%20open.pdf]
+
+
 # Global aCtIVISm through open-source bio fabricated garments
 ## “How can bio fabricated garments support climate activism of Extinction Rebellion?”
 
