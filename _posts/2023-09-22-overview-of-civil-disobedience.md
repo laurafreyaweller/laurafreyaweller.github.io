@@ -4,7 +4,7 @@ title: "Week 7"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-7.png
+image: Week-7.jpg
 ---
 
 Sources that I have used in creating this overview are:
@@ -17,5 +17,5 @@ Sources that I have used in creating this overview are:
 - https://www.youtube.com/watch?v=eP-mv5IjFzY&ab_channel=CrashCourse
 
 The overview that I came up with
-<img src="./assets/img/Week-7a.png" alt="Week-7a">
+<img src="./assets/img/Week-7a.jpg" alt="Week-7a">
 

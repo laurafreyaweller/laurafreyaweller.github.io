@@ -4,7 +4,7 @@ title: "Week 2"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-2.png
+image: Week-2.jpg
 ---
 
 Here you can see the beginning of my Research paper for my concept
@@ -21,7 +21,7 @@ Extinction Rebellion (XR) is an autonomous, decentralized, international and pol
 ### Introduction
 On the 9th of September 2023 Extinction Rebellion (XR), an international climate activist organization, has announced a new protest on the A12 at Den Hague, The Netherlands (see fig 1). This protest is supposed to be XRs’ 7th protest at the A12. The former protests have been, according to the movement, massive successes due to high media attention and a big turn-out of people joining the protest. This September, XR decided to change the protest a little. While keeping their demand – stop fossil fuel subsidies – the shape of protest is different. Instead of going one day, they want to come back every day from the 9th of September onwards until cabinet stops subsidies to the fossil fuel industry. This means, XR is asking citizens to show civil disobedience every day from the 9th of September onwards by blocking the A12 road at Den Hague until their demand is met. 
 
-<img src="./assets/img/Paper-a.jpeg" alt="Paper-a">
+<img src="./assets/img/Paper-a.jpg" alt="Paper-a">
 
 In this article I will dive further into how fashion can help play a role in this new form of protesting. More specifically: In this article I will answer the question: How can open source created garments from biofabricated material support climate activism within Extinction Rebellion? In order to answer this question, I will dive deeper into XR, their ideology, their past and their strategy. Then I will investigate relationships between fashion, other social protest movements and social identity. Third, I will look at the prospects of XR and its relationship to art. Last, I will give an introduction into bio fabricated materials and their relationship to fashion. Here I bring XR and the relationship between fashion and protest together to argument how bio fabricated garments can support climate activism of Extinction Rebellion. Based on this paper I will then create bio fabricated materials and build a lineup of garments that can be potentially worn during a blockade at the A12.
 
@@ -49,13 +49,13 @@ To become a member or a group within XR, XR offers trainings to individuals. The
 
 Probably one of the the best-known examples of a strong bond between fashion and protest can be found in “les gilets jaunes”, in other words the yellow vests. What was triggered by a protest against the increased fuel taxes, quickly escalated into a much broader protest movement: a progressive populistic calling for social and economic justice (Wilkin, 2020). Les gilets jaunes were known for wearing yellow workers vests. Hence, their protest movement is named after their fashion. The protest movement influenced high fashion: In the same year of les Gilets Jaunes, a man arrived at Paris Fashion week with an oversized, six-foot-tall haute couture version of Le Gilet Jaune (Benda, 2021).
 
-<img src="./assets/img/Paper-c.png" alt="Paper-c">
+<img src="./assets/img/Paper-c.jpg" alt="Paper-c">
 
 Les Gilets Jaunes is one of many examples where fashion and social/political movements meet. Some other examples are the “Make America Great Again” cap from Trump (MAGA-CAP) (fig. 3), the umbrellas at the Hong Kong protests (fig. 4) and the pink pussy hat worn at the Women’s March (fig. 5).
 
-<img src="./assets/img/Paper-d.jpeg" alt="Paper-d">
-<img src="./assets/img/Paper-e.png" alt="Paper-e">
-<img src="./assets/img/Paper-f.png" alt="Paper-f">
+<img src="./assets/img/Paper-d.jpg" alt="Paper-d">
+<img src="./assets/img/Paper-e.jpg" alt="Paper-e">
+<img src="./assets/img/Paper-f.jpg" alt="Paper-f">
 
 Even though these examples are all examples taken from the current zeitgeist, the relationship between fashion and protest had long existed before. Benda (2021) even argues that “as long as there have been protest movements, citizens, activists and freedom fighters have used art and design to amplify, elevate, articulate and define their causes”. She refers to the Black Panthers’ beret, Ghandi’s humble topi hat and the red dresses in the #metoo movement. But even before that, dress has been a key ingredient in protest (Lurie, 1981; Price, 2017). In the 1920s and 1930s a wave of feminism during the baby boomers entered Western culture (Dai, Xia & Zhao, 2022).  In this period, Coco Chanel tried to let women play the role of men by letting them wear black clothing, show their calves in the Little Black Dress and express their sexuality, therefore recon-structing femininity through clothing (Marcangeli, 2015).   And during the peacock revolution of the 1960s, straight men started to incorporate fashioning styles of gay men (Arida, 2017; Bengry, 2010) and color and style became no longer exclusive to gender (Dai, Xia & Zhao, 2022). Accompanied by this revolution, Yves Saint Laurent took the already slightly blurred line between masculine and feminine fashion created by designers such as Coco Chanel to a next stage by introducing the pant suit, wearable for both men and women (Reilly & Barry, 2020; Rosa, 2013).
 
@@ -65,9 +65,9 @@ In other words, the relationship between fashion and activism has existed for al
 
 Even though the relationship of social and/or cultural identity and dress can be easily shown in job uniforms, research also shows the relation outside the working environment. As Craik (2009) writes, fashion can codify a degree of uniformity within groups and therefore signal social identity. Examples can be seen in for example subcultures, which are shown in the book Exactitudes (Versluis & Uyttenbroek, 2002). Versluis & Uyttenbroek (2002) portray in their work Exactitudes more than three thousand different social types. Started in 1994 in the streets of Rotterdam, this work portrays individuals that share a set of defining visual characteristics that identifies them with specific social types, such as Gabbers, Glamboths, Ecopunks, Corporate boys, etc. See below here some of the pages of their work. 
 
-<img src="./assets/img/Paper-g.png" alt="Paper-g">
-<img src="./assets/img/Paper-h.png" alt="Paper-h">
-<img src="./assets/img/Paper-i.png" alt="Paper-i">
+<img src="./assets/img/Paper-g.jpg" alt="Paper-g">
+<img src="./assets/img/Paper-h.jpg" alt="Paper-h">
+<img src="./assets/img/Paper-i.jpg" alt="Paper-i">
 
 Besides signalling a social identity, fashion can also build community. Barry & Drak (2019) show in their research the effect of fashion in queer communities. They argue that “engaging queer and trans youth in fashion hacking fosters community and skills that can be mobilized beyond these settings to affirm their intersectional identities and resist oppressive movements, policies, discourses and systems.”. 
 On top of signalling social identity and creating community, fashion can also show solidarity and can become a way to show shared pain and grievances (Gulliver, 2023) and it can act as an agency against the current regime (Yangzom, 2016). Yangzom (2016) shows this by arguing that “clothing is the materialization of the political consciousness of the movement and symbolically acts as a mechanism of communication in shaping its political goals” and supports this by showing how important the clothing style of the Tibetan population in China is in forming an agency against the current Chinese regime. 
@@ -95,7 +95,7 @@ In sum, the freedom in form of protest of Extinction Rebellion causes the opport
 
 A biomaterial is a term used to indicate materials that have non-specific biological association. Within biomaterials, there exists biofabricated materials. Biofabricated materials are produced by living cells (e.g. mammalian) and microorganisms such as bacteria, yeast and mycelium. The material exists out of biofabricated ingredients (living cells and microorganisms such as bacteria, protein, etc.) that are afterward mechanically or chemically processed in order to make a macroscale material structure. This processing can be done through yarn spinning, 3d printing, laser cutting, and many more (Biofabricate and Fashion for Good, 2020). To understand the relation of biomaterials and biofabricated materials better, Fashion for Good and Biofabricate (2020) have created a chart to show the term biomaterials and everything that it includes (see fig. 2). 
 
-<img src="./assets/img/Paper-b.png" alt="Paper-b">
+<img src="./assets/img/Paper-b.jpg" alt="Paper-b">
 
 The relationship between biofabricated materials and fashion is rooted in one of the biggest problems within the fashion industry: its ecological footprint. The fashion industry is the second-most-polluting industry worldwide, only exceeded by the petroleum industry (FRIEDMAN, 2018; Barauna, Renck, Santos  & Tomé, 2022). One of the reasons why the fashion industry is so polluting comes from the raw materials used in the production of textiles. Many of the raw materials are created through non-renewable natural resources, of which the industry uses around 98 million tons of each year (MORLET et al., 2017). These non-renewable resources are also used for synthetic fibers such as polyester. Opperskalski et al. (2020) showed that polyester was the most manufactured synthetic textile fiber in the world in 2019, corresponding to 58 million tons of manufactured raw materials, equivalent to 52% of the total textile fiber produced in the world that year. On top of that, polyester, and many other synthetic fibers leaves micro plastics in the environment after being manufactured into a garment (for example through washing the garment) (Šaravanja, Pušić & Dekanić, 2022). 
 

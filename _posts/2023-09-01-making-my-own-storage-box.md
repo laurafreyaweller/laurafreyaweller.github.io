@@ -4,7 +4,7 @@ title: "Week 4"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-4.png
+image: Week-4.jpg
 ---
 
 To make my own storage ox I started out with watching some Youtube tutorials on how to work in Fusion 360. Some links that were helpful are:
@@ -28,7 +28,7 @@ After watching some tutorials, I decided to design my own box. I started by meas
 
 After having set the thickness of the wood, hight, length and depth of the storage box, I decided to create parameters in Fusion 360. The parameters that I used were: height: 300mm, depth: 300mm, length 450mm, thicknessA 11,8mm, thicknessB 12,2mm, thicknessC 12,4mm. While following the tutorial steps (with some practise) I created the box in Fusion in around 2,5 hours.
 
-<img src="./assets/img/Week-4b.png" alt="Week-4b">
+<img src="./assets/img/Week-4b.jpg" alt="Week-4b">
 
 After you have created the model in Fusion, you need to prepare it for the Shopbot. This you do by created a gcoded file for the shopbot. To do this in Fusion I again watched some lovely tutorials (all of them mentioned on the top of this page). 
 

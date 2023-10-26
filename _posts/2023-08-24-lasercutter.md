@@ -3,7 +3,7 @@ layout: post
 title:  "Cutting/engraving material with the lasercutter"
 date:   2023-08-24
 categories: jekyll update
-image: Week2-x.png
+image: Week2-x.jpg
 ---
 
 To work with the lasercutter you first need to have a design to cut. I recommend making it via illustrator. Make sure you vectorize the file in illustrator. When the file is done, you can safe it as an illustrator 8 file and upload this in the software of the lasercutter. 
@@ -15,5 +15,5 @@ When the file is uploaded in the lasercutter, you can decide the power and speed
 
 Below here you can see my design in indesign and the final cutted outcome on the lasercutter:
 
-<img src="./assets/img/Week-2x.png" alt="Week-2x">
-<img src="./assets/img/Week-2y.png" alt="Week-2y">
+<img src="./assets/img/Week-2x.jpg" alt="Week-2x">
+<img src="./assets/img/Week-2y.jpg" alt="Week-2y">

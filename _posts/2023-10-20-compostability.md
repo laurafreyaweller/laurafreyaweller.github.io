@@ -3,7 +3,7 @@ layout: post
 title:  "Heatpressing and sticker making: the circut cutter"
 date:   2023-08-23 
 categories: jekyll update
-image: Week-11c.png
+image: Week-11c.jpg
 ---
 
 To check the compostability of the material I did 2 things:

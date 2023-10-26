@@ -4,7 +4,7 @@ title: "Week 9"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-9.png
+image: Week-9.jpg
 ---
 
 For de 9th week van dit project ben ik in diepteinterviews gedoken waarin ik heb geprobeerd de behoeftes van rebellen tijdens een XR protest in kaart te brengen. Dit heb ik gedaan door de volgende vragen te stellen.
@@ -58,20 +58,20 @@ Almost all activist asked for more combined functionality. So for example casual
 
 ### 11. What did you bring with you today and why?
 See here below all the items people brought with them and what their purpose was:
-<img src="./assets/img/Week-9a.png" alt="Week-9a">
+<img src="./assets/img/Week-9a.jpg" alt="Week-9a">
 
 __________________________________________________________________
 
-<img src="./assets/img/Week-9b.png" alt="Week-9b">
+<img src="./assets/img/Week-9b.jpg" alt="Week-9b">
 
 __________________________________________________________________
 
-<img src="./assets/img/Week-9c.png" alt="Week-9c">
+<img src="./assets/img/Week-9c.jpg" alt="Week-9c">
 
 __________________________________________________________________
 
-<img src="./assets/img/Week-9d.png" alt="Week-9d">
+<img src="./assets/img/Week-9d.jpg" alt="Week-9d">
 
 __________________________________________________________________
 
-<img src="./assets/img/Week-9e.png" alt="Week-9e">
+<img src="./assets/img/Week-9e.jpg" alt="Week-9e">

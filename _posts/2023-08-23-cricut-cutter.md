@@ -3,7 +3,7 @@ layout: post
 title:  "Heatpressing and sticker making: the circut cutter"
 date:   2023-08-23 
 categories: jekyll update
-image: Week-2h.png
+image: Week-2h.jpg
 ---
 
 
@@ -23,5 +23,5 @@ To use the circut cutter, check out the steps below:
 - When the circut cutter is done with your design, you start peeling of the layers that you do not want to have on you heat pressed material/sticker with the tools on the left side of the cutter. 
 
 Here are also some pictures of my process:
-<img src="./assets/img/Week-2j.png" alt="Week-2j">
+<img src="./assets/img/Week-2j.jpg" alt="Week-2j">
 

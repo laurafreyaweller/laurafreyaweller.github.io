@@ -3,7 +3,7 @@ layout: post
 title:  "Heatpressing and sticker making: the circut cutter"
 date:   2023-08-23 
 categories: jekyll update
-image: Week-12a.png
+image: Week-12a.jpg
 ---
 
 For coloration I wanted a red, blue and yellow color to start with. Working together with the interns from the textile lab, we used wastewater from natural dye experiments to dye the biomaterials with. From the waste water we either used the water directly, we created paste out of the water to add to the biomaterials or we let the ingredients dry and grinded them into pigments. 

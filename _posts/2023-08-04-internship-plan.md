@@ -4,12 +4,12 @@ title: "Week 0"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-0.png
+image: Week-0.jpg
 ---
 
 Before I started on my internship at De Waag I took some time to prepare for it. I made an Internship plan and uploaded that on OnStage. 
 
-<img src="./assets/img/Week-0a.png" alt="Week-0a">
+<img src="./assets/img/Week-0a.jpg" alt="Week-0a">
 
 See below my internship plan:
 

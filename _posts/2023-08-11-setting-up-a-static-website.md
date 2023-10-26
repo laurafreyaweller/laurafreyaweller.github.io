@@ -4,7 +4,7 @@ title: "Week 1"
 author: "Laura Weller"
 categories: facts
 tags: [sample]
-image: Week-1.png
+image: Week-1.jpg
 ---
 
 In the first week of my internship I started with setting up this static website. Below you can see how I did that. 
