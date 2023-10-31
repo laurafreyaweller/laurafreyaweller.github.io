@@ -15,6 +15,6 @@ After rejecting some materials and accepting others, I decided to test the mater
 1. [strongness] (strongness)
 2. [water-resistance] (water-resistance)
 3. [compostability] (compostability)
-4. [coloration] (coloration)
+4. [sizing] (sizing)
 
 When you click on the options, you see the methods + outcome of each test. 

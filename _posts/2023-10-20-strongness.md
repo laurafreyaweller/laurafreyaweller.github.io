@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Heatpressing and sticker making: the circut cutter"
+title:  "strongness"
 date:   2023-08-23 
 categories: jekyll update
 image: Week-11a.jpg
