@@ -9,5 +9,3 @@ image: Week-11a.jpg
 To check the strongness of the material, I tried to sew the materials together with a partially bleached linnen yarn. The yarn I got from:
 - https://www.anjahandwerk.nl/search/?search=Bockens
 
-See below the results:
-
