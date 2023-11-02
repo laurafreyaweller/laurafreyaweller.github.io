@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "compostability"
+title:  "Compostability"
 date:   2023-08-23 
 categories: jekyll update
-image: Week-11c.jpg
 ---
 
 To check the compostability of the material I did 2 things:
@@ -12,6 +11,7 @@ To check the compostability of the material I did 2 things:
 
 ### 1. Burry the materials
 I burried the material samples in the ground for 6 months and then digging it up. Here you can see the process of me burrying the materials:
+<img src="./assets/img/Week-11c.jpg" alt="Week-11c">
 
 
 
