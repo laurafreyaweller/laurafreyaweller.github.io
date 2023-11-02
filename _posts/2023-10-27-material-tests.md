@@ -9,12 +9,14 @@ image: Week-12.jpg
 
 For the testing of the chosen materials I decided to test some materials and already rejected some other materials. Below you see the result of each material and whether I rejected it beforehand or not:
 
-<img src="./assets/img/Week-10a.jpg" alt="Week-10a">
+<img src="./assets/img/Week-12a.jpg" alt="Week-12a">
 
 After rejecting some materials and accepting others, I decided to test the materials on 4 things:
-1. [strongness] (strongness)
-2. [water-resistance] (water-resistance)
-3. [compostability] (compostability)
-4. [sizing] (sizing)
+1. [strongness](strongness)
+2. [water-resistance](water-resistance)
+3. [compostability](compostability)
+4. [sizing](sizing)
 
 When you click on the options, you see the methods + outcome of each test. 
+
+Below you can see which materials are rejected and which not after testing them on the variables above.
