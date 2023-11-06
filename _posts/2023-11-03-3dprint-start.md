@@ -18,4 +18,11 @@ The outcome of both prints made me realize that I had to make sure that
 - I should print with a hot air fan next to it
 - I should print on a surface that holds the paste well: plaster/cast
 
-After ordering the infra red lighting and the hot air fan, I tried to print again. 
+Here you can see the first print + result:
+
+<iframe src="https://youtu.be/l_m5Ov-dO2o" width="600" height="337" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+The result of the 3D print is:
+<img src="./assets/img/Week-13a.jpg" alt="Week-13a">
+
+After ordering the infra red lighting and the hot air fan, I will try to print again. 
