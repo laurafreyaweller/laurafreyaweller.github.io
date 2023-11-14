@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week--"
+title:  "Week 14, 15 en 16"
 date:   2023-08-23 
 categories: jekyll update
 image: Week 14, 15 & 16
@@ -13,10 +13,20 @@ One website that really helped me in this process is:
 
 Below you can see a list of all the ingredients and whether they are tested by using wastewater, waste paste or waste pigment.  
 
-Name ingredients   | Dye bath yes/no    | Dye paste yes/no   | Dye pigment yes/no     
------------------- | :----------------: | :----------------- | -----------------: 
-Madder             | No                 | No                 | Yes - successful               
-Orange Peel        | No                 | No                 | Yes - not successfull    
-Coffee             | No                 | No                 | Yes - successful                
-Carrot tops        | No                 | No                 | Yes      
-Carrot tops        | No                 | No                 | Yes      
+Color              | Name ingredients   | Dye bath yes/no    | Dye paste yes/no   | Dye pigment yes/no     
+------------------ | :------------------ | :----------------: | :----------------- | -----------------: 
+Red                | Madder             | No                 | No                 | Yes - successful 
+Red                | Hibicus            |                    |                    |     
+Orange             | Onion skin         |                    |                    |        
+Orange             | Paprika powder     |                    |                    |        
+Yellow             | Orange Peel        | No                 | No                 | Yes - successful 
+Yellow             | Carrot tops        | Yes - successful   | No                 | Yes - successful
+Yellow             | Tumeric            |                    |                    |  
+Green              | Spirulina          |                    |                    |       
+Green              | Matcha             |                    |                    |  
+Green              | Egg paper          | No                 | No                 | Yes - successful 
+Blue               | Butterfly tea      |                    |                    |       
+Blue               | Wede               |                    |                    |  
+Purple             | Cabbage            |                    |                    |  
+Pruple             | Blueberries        |                    |                    |  
+Brown              | Coffee             | No                 | No                 | Yes - successful 

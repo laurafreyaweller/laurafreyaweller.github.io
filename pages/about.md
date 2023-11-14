@@ -4,4 +4,11 @@ title: About
 permalink: /about
 ---
 
-Hi! My name is Laura Weller. I am a Dutch fashion designer who studied Liberal Arts and Sciences at the Universiteit Utrecht and Fashion design at AMFI. Please check out my portfolio for more information on the projects I do on [my portfolio](https://laurafreyaweller.myportfolio.com/).
+Hi there!
+
+This is a website made for my graduation project. On this website you can find all sorts of information, such as my [process documentation](documentation) and the outcome of my project in [material design](biomaterials), [digital design](digital-materials) and [physical designs](garment-designs). If you want to know more about me, please look at the page [contact](contact). Here you find a link to my portfolio as well.
+
+
+
+
+
