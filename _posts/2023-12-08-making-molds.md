@@ -18,3 +18,4 @@ Then I ordered the epoxy and the tape:
 
 Then I varnished the paper with epoxy, let that dry and added the tape around. This created a mold that is level and can be used for biomaterials.
 <img src="./assets/img/Week-17d.jpg" alt="Week-17d">
+<img src="./assets/img/Week-17e.jpg" alt="Week-17e">

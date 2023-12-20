@@ -14,3 +14,4 @@ In week 14 I had the concept check of my project. Here I tried to showcase my pr
 The feedback I got on this presentation was as follows:
 Overall Feedback Interim Check Project definition, final graduation plan & realisation plan
 - You made good new steps. We see that you have worked on the biodegradable materials and dived deeper in the archetypical garments. Keep up the good work. 
+
