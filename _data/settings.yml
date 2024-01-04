@@ -8,11 +8,12 @@ google-ID: 'UA-112060364-2'
 
 menu:
 - {name: 'Documentation',      url: 'documentation'}
-- {name: 'Bio materials',      url: 'Biomaterials'}
-- {name: 'Digital materials',  url: 'digital-materials'}
+- {name: 'Biomaterials',      url: 'biomaterials'}
 - {name: 'Garment designs',    url: 'garment-designs'}
-- {name: 'About',           url: 'about'}
-- {name: 'Contact',            url: 'contact'}
+- {name: 'Internship information',  url: 'internship-info'}
+- {name: 'Graduation information',  url: 'graduation-information'}
+- {name: 'About & contact',           url: 'about&contact'}
+
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
