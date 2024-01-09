@@ -10,7 +10,7 @@ menu:
 - {name: 'Documentation',      url: 'documentation'}
 - {name: 'Biomaterials',      url: 'biomaterials'}
 - {name: 'Garment designs',    url: 'garment-designs'}
-- {name: 'Internship information',  url: 'internship-info'}
+- {name: 'Internship information',  url: 'internship-information'}
 - {name: 'Graduation information',  url: 'graduation-information'}
 - {name: 'About & contact',           url: 'about&contact'}
 

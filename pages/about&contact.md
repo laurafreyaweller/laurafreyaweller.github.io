@@ -10,7 +10,7 @@ My name is Laura Weller. I am a Dutch fashion designer who studied Liberal Arts 
 
 To get in contact with me, please email me on laurafreyaweller@gmail.com
 
-This is a website made for my internship and graduation project. On this website you can find all sorts of information, such as my [process documentation](documentation) and the outcome of my project in [material design](biomaterials) and [fashion designs](garment-designs). If you are looking for information specifically related to my internship, look [here](internship-information). If you are looking for information specifically related to my graduation, look [here](graduation-information). 
+This is a website made for my internship and graduation project. On this website you can find all sorts of information, such as my [process documentation](documentation) and the outcome of my project in [material design](biomaterials) and [garment designs](garment-designs). If you are looking for information specifically related to my internship, look [here](internship-information). If you are looking for information specifically related to my graduation, look [here](graduation-information). 
 
 
 

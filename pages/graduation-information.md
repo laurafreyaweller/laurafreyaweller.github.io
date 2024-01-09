@@ -14,11 +14,6 @@ On this page you can find all the official documents regarding my graduation.
 |Concept check sem 7 presentation| [Click here](../../assets/nonimg/graduation-info-presentation-concept-check-sem7.pptx) to download the file.|
 |Product check sem 7 presentation| [Click here](../../assets/nonimg/graduation-info-presentation-product-check-sem7.pptx) to download the file.|
 |Red/Green check sem 7 presentation| [Click here](../../assets/nonimg/graduation-info-presentation-redgreen-check-sem7.pptx) to download the file.|
-|Red/Green check self-assessment sem 7| [Click here](../../assets/nonimg/internship-info-self-assessment-form.docx) to download the file.|
+|Red/Green check self-assessment sem 7| [Click here](../../assets/nonimg/graduation-info-self-assessment-form.pdf) to download the file.|
 |Summary of the documentation page| [Click here](../../assets/nonimg/internship-info-summary-of-documentation.pdf) to download the file.|
 |Introduction letter project| [Click here](../../assets/nonimg/graduation-introduction-letter-sem7.pdf) to download the file.|
-
-
-
-
-
