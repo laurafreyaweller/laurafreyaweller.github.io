@@ -10,7 +10,7 @@ This page contains all the digital maps of the materials that you can see above.
 
 |Number| Physical material | Digital material|
 |----------|----------|----------|----------| 
-|1| <img src="./assets/img/digitalbiomatrecipes/1.jpg" alt="1">| [Click here](../../assets/nonimg/digitalbiomatrecipes/1.zip) to download the maps.|
+|1| <img src="./assets/img/digitalbiomatrecipes/1.jpg" alt="1">| [Click here](../../assets/GitLFSfiles/1.zip) to download the maps.|
 |2| <img src="./assets/img/digitalbiomatrecipes/2.jpg" alt="2">| [Click here](../../assets/nonimg/digitalbiomatrecipes/2.zip) to download the maps.|
 |3| <img src="./assets/img/digitalbiomatrecipes/3.jpg" alt="3">| [Click here](../../assets/nonimg/digitalbiomatrecipes/3.zip) to download the maps.|
 |4| <img src="./assets/img/digitalbiomatrecipes/4.jpg" alt="4">| [Click here](../../assets/nonimg/digitalbiomatrecipes/4.zip) to download the maps.|
