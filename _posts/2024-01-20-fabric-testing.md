@@ -8,7 +8,7 @@ image: Week-20.jpg
 ---
 
 After making all my materials I decided to digitalize them and test them. 
-- To find all the digitalized version of my materials, please look (here)[/digital-hardware-recipes]. 
+- To find all the digitalized version of my materials, please look [here](digital-hardware-recipes). 
 - To see the outcome of my tests, look below
 
 ## Testing outcome
@@ -81,6 +81,7 @@ The swatches that I used:
 <img src="./assets/img/Week-20i.jpg" alt="Week-20i">
 
 The outcomes can be downloaded in the file below
+
 |CLO-kit tests| |
 |----------|----------| 
 |wool + alginate fabric| [Click here](../../assets/nonimg/week-20-wool-alginate-fabric.xlsx) to download the outcome.|

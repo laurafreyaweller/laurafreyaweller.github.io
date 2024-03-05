@@ -5,7 +5,14 @@ permalink: /graduation-information
 ---
 On this page you can find all the official documents regarding my graduation.  
 
-|Graduation documents| |
+|Graduation documents semester 8| |
+|----------|----------| 
+|Graduation manual sem 8| [Click here](../../assets/nonimg/graduation-info-manual-sem8.pdf) to download the file.|
+|Graduation timeline| [Click here](../../assets/nonimg/internship-info-timeline.png) to download the file.|
+|Concept check sem 8 presentation| [Click here](https://docs.google.com/presentation/d/1vFodQ1glvVmcF-5hzmwbFup0p4GPKvkI/edit?usp=drive_link&ouid=117429730282650331398&rtpof=true&sd=true) to download the file.|
+
+
+|Graduation documents semester 7| |
 |----------|----------| 
 |Graduation manual sem 7| [Click here](../../assets/nonimg/graduation-info-manual-sem7.pdf) to download the file.|
 |Textile track lessonplan sem 7| [Click here](../../assets/nonimg/graduation-info-lesson-plan-textile-sem7.pdf) to download the file.|
