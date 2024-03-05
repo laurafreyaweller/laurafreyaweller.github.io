@@ -57,6 +57,11 @@ image: table-of-contents.jpg
 
 [Week 25](hardware): Research into the practical hardware of the looks
 
+[Week 26](looks): Designs of the looks, environment and avatars
+
+[Week 27](biomaterial-large-scale): preparing the biomaterial in large scale molds
+
+
 
 
 
