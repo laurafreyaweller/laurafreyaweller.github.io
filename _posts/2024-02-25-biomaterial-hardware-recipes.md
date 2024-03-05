@@ -13,6 +13,6 @@ This page contains all hardware recipes of the hardware you can see above. The b
 |----------|----------| 
 |Lining| [Click here](../../assets/nonimg/biomaterials-info-hardware-recipes.pdf) to download the file.|
 |Shoulderpads| [Click here](../../assets/nonimg/biomaterials-info-hardware-recipes.pdf) to download the file.|
-|Buttons| [Click here](../../assets/nonimg/) to download the file.|
+|Buttons| [Click here](../../assets/nonimg/XR buttons.ai) to download the ai file. [Click here](../../assets/nonimg/XR buttons.lbrn2) to download the lightburn file.|
 
 Do you want to 3D print with biomaterials. You can find the recipe to use for the hacked Ender biomaterial printer [here](../../assets/nonimg/biomaterials-3dprinting-paste-recipe.pdf). For using the 3D printer, please visit [this](3dprinting-2) page I've written
