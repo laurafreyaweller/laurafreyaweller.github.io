@@ -12,4 +12,4 @@ This page contains all the digital hardware that you can see above. To download 
 |----------|----------| 
 |Lining| [Click here](https://drive.google.com/file/d/1kll5-n7Z65BXyR6DxT8i8tuc2HhqOz_V/view?usp=drive_link) to download the maps.|
 |Shoulderpads| [Click here](https://drive.google.com/file/d/1kll5-n7Z65BXyR6DxT8i8tuc2HhqOz_V/view?usp=drive_link) to download the maps.|
-|Buttons| [Click here](../../assets/nonimg/) to download the file.|
+|Buttons| [Click here](../../assets/nonimg/hardware-button.blend) to download the file.|
