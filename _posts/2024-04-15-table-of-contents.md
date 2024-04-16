@@ -61,6 +61,22 @@ image: table-of-contents.jpg
 
 [Week 27](biomaterial-large-scale): preparing the biomaterial in large scale molds
 
+[Week 28](concept-check): concept check feedback
+
+[Week 29](sketching): Making more sketches and generating design ideas
+
+[Week 30 & 31](toiling): Making toiles
+
+[Week 32](more-materials-large-scale): Making more materials on large scale
+
+[Week 33](clothing-references): Looking into the chosen designs and their clothing references
+
+[Week 34](digital-environments): Looking into different digital environments for the renders and photoshoot
+
+
+
+
+
 
 
 
