@@ -13,9 +13,11 @@ On this page you can find all the official documents regarding my graduation.
 |Interim check sem 8 presentation| [Click here](https://docs.google.com/presentation/d/1HOw1iUpmrOSYbyid221GYcHl7a391Fc4/edit?usp=sharing&ouid=117429730282650331398&rtpof=true&sd=true) to download the file.|
 |Red/Green check sem 8 presentation| [Click here](https://docs.google.com/presentation/d/1R8-Jkrto2_s0rOJLl6KUvcrfLyFg8POr/edit?usp=sharing&ouid=117429730282650331398&rtpof=true&sd=true) to download the file.|
 |Red/Green check sem 8 self assessment form| [Click here](../../assets/nonimg/graduation-info-self-assessment-form-sem-8-rg.pdf) to download the file.|
-|Final assessment sem 8 presentation| [Click here](https://docs.google.com/presentation/d/1R8-Jkrto2_s0rOJLl6KUvcrfLyFg8POr/edit?usp=sharing&ouid=117429730282650331398&rtpof=true&sd=true) to download the file.|
+|Final assessment sem 8 presentation| [Click here](https://docs.google.com/presentation/d/1Jho75x2iUAwCXi3eFynwcxj04aPE-h3q/edit?usp=drive_link&ouid=117429730282650331398&rtpof=true&sd=true) to download the file.|
 |Final assessment sem 8 self assessment form| [Click here](../../assets/nonimg/graduation-info-self-assessment-form-sem8-final.pdf) to download the file.|
 |Introduction letter project| [Click here](../../assets/nonimg/graduation-introduction-letter-sem7.pdf) to download the file.|
+|Collection book with all final deliverables| [Click here](../../assets/nonimg/LauraWeller_CollectionBookAllDeliverables_Graduation_2023.2024_Sem2.pdf) to download the file.|
+|Vogue collection book| [Click here](../../assets/nonimg/LauraWeller_CollectionBook_Vogue_Graduation_2023.2024_Sem2.pdf) to download the file.|
 
 
 |Graduation documents semester 7| |
